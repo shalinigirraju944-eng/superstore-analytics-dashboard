@@ -46,6 +46,14 @@ See the dashboard screenshot uploaded in this repository.
 * Improved data visualization and dashboard design skills.
 * Learned to present business metrics for data-driven decision-making.
 
+📂 Dataset
+
+The Superstore Excel dataset contains retail sales information used to analyze sales performance, product categories, customer segments, profitability, and regional trends.
+
+Format: Microsoft Excel (.xlsx)
+
+Purpose: Used as the source dataset for developing the interactive Tableau Superstore Analytics Dashboard.
+
 👩‍💻 About Me
 
 BCA Graduate | Aspiring Data Analyst
